@@ -1,0 +1,37 @@
+{
+  "name": "Selfhosted Comic Reader Source",
+  "subtitle": "Unofficial native iOS client for self-hosted Kavita servers",
+  "description": "A native SwiftUI iOS app for reading a self-hosted Kavita (comics/manga server) library, with offline downloads, a real page-curl reader, and double-page spreads on iPad/landscape.",
+  "iconURL": "https://raw.githubusercontent.com/HolmesBrew/selfhosted-comic-reader/main/icon.png",
+  "website": "https://github.com/HolmesBrew/selfhosted-comic-reader",
+  "tintColor": "#E5484D",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Selfhosted Comic Reader",
+      "bundleIdentifier": "com.example.SelfhostedComicReader",
+      "developerName": "hellomoto",
+      "subtitle": "Read your self-hosted Kavita library",
+      "localizedDescription": "A native SwiftUI iOS app for reading a self-hosted Kavita (comics/manga server) library over OPDS and Kavita's native API. Features a real UIKit page-curl reader with double-page spreads in landscape, offline chapter/series downloads, drag-to-multiselect chapter management, an ambient blurred-poster background, and optional local notifications when a fully-read series gets a new chapter.",
+      "iconURL": "https://raw.githubusercontent.com/HolmesBrew/selfhosted-comic-reader/main/icon.png",
+      "tintColor": "#E5484D",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-06-25",
+          "localizedDescription": "Initial sideloaded release.",
+          "downloadURL": "https://github.com/HolmesBrew/selfhosted-comic-reader/releases/download/v1.0/selfhosted-comic-reader.ipa",
+          "size": 2726086,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
