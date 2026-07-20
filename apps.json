@@ -22,7 +22,7 @@
           "buildVersion": "1",
           "date": "2026-07-20",
           "localizedDescription": "added comicvine api, fixed notifications and added a widget.",
-          "downloadURL": "https://github.com/HolmesBrew/selfhosted-comic-reader/releases/download/v1.1/selfhostedcomicreader.ipa",
+          "downloadURL": "https://github.com/HolmesBrew/selfhosted-comic-reader/releases/download/v1.1/SelfhostedComicReader.ipa",
           "size": 4868142,
           "minOSVersion": "17.0"
         }
